@@ -1,5 +1,21 @@
 ### Contributed to Julia and Julia packages
 
+* 2017 05
+ - 2017-05-08 JuliaDocs/Documenter.jl responsive side navigation https://github.com/JuliaDocs/Documenter.jl/pull/449
+
+* 2017 04
+ - 2017-04-27 JuliaLang/julia Add a test throws an error by invalid subtyping in definition (#19414) https://github.com/JuliaLang/julia/pull/20548
+ 
+* 2017 03
+ - 2017-03-21 JuliaWeb/HttpServer.jl Fix corruption in header parsing with Julia 0.6 https://github.com/JuliaWeb/HttpServer.jl/pull/113
+
+* 2017 01
+  - 2017-01-21 staticfloat/Nettle.jl requires julia 0.4, fix for deprecated Array(T, dims), str.data https://github.com/staticfloat/Nettle.jl/pull/79
+
+* 2016 11
+ - 2016-11-28 malmaud/TensorFlow.jl fix deprecated exp, use exp.(x) https://github.com/malmaud/TensorFlow.jl/pull/105
+ - 2016-11-18 Evizero/UnicodePlots.jl Fix deprecated $, tty_size https://github.com/Evizero/UnicodePlots.jl/pull/60
+ 
 * 2016 09
  - 2016-09-21 JuliaLang/IJulia.jl use unsafe_string instead of bytestring https://github.com/JuliaLang/IJulia.jl/pull/444
 
@@ -19,6 +35,7 @@
 
 
 ### Maintaining my Julia packages
+ - 2017-03-29 JuliaLang/METADATA.jl Tag Bukdu v0.1.0 https://github.com/JuliaLang/METADATA.jl/pull/8537
  - 2016-09-04 JuliaLang/METADATA.jl Tag Bukdu v0.0.2 https://github.com/JuliaLang/METADATA.jl/pull/6234
  - 2016-08-25 JuliaLang/METADATA.jl Register Bukdu https://github.com/JuliaLang/METADATA.jl/pull/6101
  - 2016-08-14 JuliaLang/METADATA.jl Tag Millboard v0.1.0  https://github.com/JuliaLang/METADATA.jl/pull/5960
